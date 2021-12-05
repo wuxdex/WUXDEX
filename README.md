@@ -4,11 +4,11 @@ Tekrardan merhabalar, yazılım işine başlama hikayemden başlamak istiyorum. 
 
 ### 🔭 Çalışma Alanlarım;
 
-**Python, C#, Java, Pawn, HTML, CSS, LUA.**
+**Python, C#, Java, Pawn, HTML, CSS, LUA, PHP, JS.**
 
 ### 🌱 Öğrenim Aşamasında Olduklarım;
 
-**PHP, JS.**
+##....##
 
 **Kişisel Websitem: Yakında**
 
